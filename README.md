@@ -22,3 +22,9 @@
     baidu.com
     360.com
     ```
+
+# 编译
+
+qt支持所有系统，可以使用打包工具自行打包
+
+资源有限，仅提供一份windows的exe文件，使用pyinstaller打包的。为了win7下运行，使用Python3.8.5版本
