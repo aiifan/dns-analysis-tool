@@ -8,7 +8,7 @@
 刚学习，写的不太好，大家一起学习
 多个DNS服务器，多个域名，批量解析
 
-![image](https://user-images.githubusercontent.com/24599746/222950163-373d91fe-9f93-412e-b1c8-61eba3e8aa38.png)
+![Alt text](1111.png)
 
 
 # 使用方法
